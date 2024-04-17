@@ -11,7 +11,7 @@
 
 :game_die: Технологический стек: JavaScript, HTML, CSS.
 
-:100: Вы можете изменить цветовое оформление игры на своё усмотрение в файле style.css.
+:100: Вы можете изменить цветовое оформление игры на своё усмотрение в файле `style.css`.
 <div id="footer">
   
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW15MnZtM3RtNmZvZXRyZWhjNXg4d2phZGYyYW4xamJqZDY1amY3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7rjzdle82dcwihtqQn/giphy.gif" width="350" />
