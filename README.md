@@ -1,9 +1,9 @@
 ## Game memory numbers / Игра найди пару цифр    
 ****
+#### Игра аналогична игре ["Найди пару сладостей"](https://github.com/Frontess/Game_memory_sweets) и игре ["Найди пару цифр с адаптивной версткой"](https://github.com/Frontess/Memory-game)    
 
 <img width="1185" alt="Снимок экрана 2024-04-29 в 17 57 58" src="https://github.com/Frontess/Game-memory-numbers/assets/127450758/451c6bd5-8364-4a70-8a3d-8de4181b9c00">
 
-Игра аналогична игре ["Найди пару сладостей"](https://github.com/Frontess/Game_memory_sweets) и ["Найди пару цифр с адаптивной версткой"](https://github.com/Frontess/Memory-game)
 
 :game_die: Оформление игры: 
 - игровое поле разделено на 16 одинаковых карточек, за которыми спрятаны пары цифр от :one: до :eight:.
